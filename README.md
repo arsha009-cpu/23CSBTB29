@@ -7,3 +7,4 @@
 [https://github.com/arsha009-cpu/23CSBTB29/blob/main/Assignment4.ipynb]
 [https://github.com/arsha009-cpu/23CSBTB29/blob/main/Assignment_6.ipynb]
 [https://github.com/arsha009-cpu/23CSBTB29/blob/main/SVM.ipynb]-assign7
+[https://github.com/arsha009-cpu/23CSBTB29/blob/main/Decisionon_tree.ipynb]-assign 8
